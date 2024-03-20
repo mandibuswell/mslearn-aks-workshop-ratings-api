@@ -5,17 +5,17 @@
       "pages": {
           "Home": {
               "title": "Rate The Tank :: Project Homepage",
-              "headerImage": "/static/img/fruits/ratethetank.jpeg",
+              "headerImage": "/static/img/fruits/ratethetank.jpg",
               "subtitle": "Rate The Tank  - Project Homepage"
           },
           "Rating": {
               "title": "Rate The Tank  :: Rate the Superheroes",
-              "headerImage": "/static/img/fruits/ratethetank.jpeg",
+              "headerImage": "/static/img/fruits/ratethetank.jpg",
               "subtitle": "Rate the tanks"
           },
           "Leaderboard": {
               "title": "Rate The Tank :: Current Leaderboard",
-              "headerImage": "/static/img/fruits/ratethetank.jpeg",
+              "headerImage": "/static/img/fruits/ratethetank.jpg",
               "subtitle": "Current Leaderboard"
           }
       }
