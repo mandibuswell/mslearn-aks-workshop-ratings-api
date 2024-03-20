@@ -6,5 +6,6 @@
   {"name":"T28","uid":5.0,"img":"/static/img/fruits/t28.jpeg"},
   {"name":"ISU 152","uid":6.0,"img":"/static/img/fruits/isu152.jpeg"},
   {"name":"PL-01 Stealth Tank","uid":7.0,"img":"/static/img/fruits/pl01.jpeg"},
-  {"name":"CV9030N","uid":8.0,"img":"/static/img/fruits/CV9030N.jpeg"}
+  {"name":"CV9030N","uid":8.0,"img":"/static/img/fruits/CV9030N.jpeg"},
+  {"name":"Bob Semple Tank","uid":8.0,"img":"/static/img/fruits/bobsemple.jpeg"}
 ]
