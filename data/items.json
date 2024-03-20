@@ -1,6 +1,6 @@
 [
-  {"name":"German KF51 Panther","uid":1.0,"img":"/static/img/tanks/Rheinmetall-Panther-KF51-2.jpeg"},
-  {"name":"British Mark IV Female Tank","uid":2.0,"img":"/static/img/tanks/MarkIV_1.jpeg"},
+  {"name":"German KF51 Panther","uid":1.0,"img":"/static/img/fruits/Rheinmetall-Panther-KF51-2.jpeg"},
+  {"name":"British Mark IV Female Tank","uid":2.0,"img":"/static/img/fruits/MarkIV_1.jpeg"},
   {"name":"Bushmaster 5.5","uid":3.0,"img":"/static/img/fruits/tank2.jpeg"},
   {"name":"NZLAV","uid":4.0,"img":"/static/img/fruits/tank1.jpeg"}
 ]
