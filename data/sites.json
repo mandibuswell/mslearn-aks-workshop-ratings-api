@@ -1,22 +1,22 @@
 [
   {
-      "name": "Fruit Smoothies",
+      "name": "Rate The Tank",
       "shortCode": "FR",
       "pages": {
           "Home": {
-              "title": "Fruit Smoothies :: Project Homepage",
+              "title": "Rate The Tank :: Project Homepage",
               "headerImage": "/static/img/fruits/smoothies.jpeg",
-              "subtitle": "Fruit Smoothies - Project Homepage"
+              "subtitle": "Rate The Tank  - Project Homepage"
           },
           "Rating": {
-              "title": "Fruit Smoothies :: Rate the Superheroes",
+              "title": "Rate The Tank  :: Rate the Superheroes",
               "headerImage": "/static/img/fruits/smoothies.jpeg",
-              "subtitle": "Rate the smoothies"
+              "subtitle": "Rate the tanks"
           },
           "Leaderboard": {
-              "title": "Fruit Smoothies :: Current Leaderboard",
+              "title": "Rate The Tank :: Current Leaderboard",
               "headerImage": "/static/img/fruits/smoothies.jpeg",
-              "subtitle": "Current Leaderboard - Orange smoothie? Yuck."
+              "subtitle": "Current Leaderboard"
           }
       }
   }
