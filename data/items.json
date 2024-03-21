@@ -1,11 +1,11 @@
 [
-  {"name":"German KF51 Panther","uid":1.0,"img":"/static/img/fruits/Rheinmetall-Panther-KF51-2.jpeg"},
-  {"name":"British Mark IV Female","uid":2.0,"img":"/static/img/fruits/MarkIV_1.jpeg"},
-  {"name":"Bushmaster 5.5","uid":3.0,"img":"/static/img/fruits/tank2.jpeg"},
-  {"name":"NZLAV","uid":4.0,"img":"/static/img/fruits/tank1.jpeg"},
-  {"name":"T28","uid":5.0,"img":"/static/img/fruits/t28.jpeg"},
-  {"name":"ISU 152","uid":6.0,"img":"/static/img/fruits/isu152.jpeg"},
-  {"name":"PL-01 Stealth Tank","uid":7.0,"img":"/static/img/fruits/PL01.png"},
-  {"name":"CV9030N","uid":8.0,"img":"/static/img/fruits/CV9030N.jpeg"},
-  {"name":"Bob Semple Tank","uid":8.0,"img":"/static/img/fruits/bobsemple.jpeg"}
+  {"name":"German KF51 Panther","uid":1.0,"img":"/static/img/tanks/Rheinmetall-Panther-KF51-2.jpeg"},
+  {"name":"British Mark IV Female","uid":2.0,"img":"/static/img/tanks/MarkIV_1.jpeg"},
+  {"name":"Bushmaster 5.5","uid":3.0,"img":"/static/img/tanks/tank2.jpeg"},
+  {"name":"NZLAV","uid":4.0,"img":"/static/img/tanks/tank1.jpeg"},
+  {"name":"T28","uid":5.0,"img":"/static/img/tanks/t28.jpeg"},
+  {"name":"ISU 152","uid":6.0,"img":"/static/img/tanks/isu152.jpeg"},
+  {"name":"PL-01 Stealth Tank","uid":7.0,"img":"/static/img/tanks/PL01.png"},
+  {"name":"CV9030N","uid":8.0,"img":"/static/img/tanks/CV9030N.jpeg"},
+  {"name":"Bob Semple Tank","uid":8.0,"img":"/static/img/tanks/bobsemple.jpeg"}
 ]
